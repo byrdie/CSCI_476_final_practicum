@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{test}
+Eric Fulton.
+\newblock 2015 final practicum, May 2015.
+\newblock \url{http://mthack.me/test/}.
+
+\bibitem{rfc}
+J.~Ashworth.
+\newblock The naming of hosts, April 1997.
+\newblock \url{https://www.ietf.org/rfc/rfc2100.txt}.
+
+\bibitem{tomcat}
+Tony Lee.
+\newblock Manually exploiting tomcat manager, September 2012.
+\newblock
+  \url{http://blog.opensecurityresearch.com/2012/09/manually-exploiting-tomcat-manager.html}.
+
+\bibitem{Laudanum}
+Kevin Johnson.
+\newblock Laudanum: Injectable functionality, 2013.
+\newblock \url{http://laudanum.professionallyevil.com/}.
+
+\bibitem{ceasar}
+Robert Eisele.
+\newblock Caesar cipher decryption tool, 2008.
+\newblock \url{http://www.xarg.org/tools/caesar-cipher/}.
+
+\end{thebibliography}
